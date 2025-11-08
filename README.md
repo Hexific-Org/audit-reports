@@ -9,6 +9,7 @@
 | 2025-09-16 | [TSwapPool](./reports/2025-09-16-TSwapPool.pdf)           | Liquidity Pool   | 4   | 1   | 2   | 8   | 1   |
 | 2025-10-01 | [BidBeastsNFT](./reports/2025-10-01-BidBeastsNFT.pdf)     | NFT market place | 1   | 2   | 1   | 7   | n/a |
 | 2025-10-19 | [RaiseBoxFaucet](./reports/2025-10-19-RaiseBoxFaucet.pdf) | Faucet           | 1   | 1   | 3   | 8   | 2   |
+| 2025-11-08 | [ThunderLoan](./reports/2025-11-08-ThunderLoan.pdf)       | Flash loan       | 2   | 1   | 4   | 2   | 11  |
 
 ## Legend
 
