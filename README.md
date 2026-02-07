@@ -10,6 +10,7 @@
 | 2025-10-01 | [BidBeastsNFT](./reports/2025-10-01-BidBeastsNFT.pdf)     | NFT market place | 1   | 2   | 1   | 7   | n/a |
 | 2025-10-19 | [RaiseBoxFaucet](./reports/2025-10-19-RaiseBoxFaucet.pdf) | Faucet           | 1   | 1   | 3   | 8   | 2   |
 | 2025-11-08 | [ThunderLoan](./reports/2025-11-08-ThunderLoan.pdf)       | Flash loan       | 2   | 1   | 4   | 2   | 11  |
+| 2026-02-07 | [BossBridge](./reports/2026-02-07-BossBridge.pdf)         | Cross-chain      | 5   | 0   | 1   | 3   | n/a |
 
 ## Legend
 
